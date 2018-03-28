@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>liujinhuang</title>
+  
+  <subtitle>little title</subtitle>
+  <link href="/liujin.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://liujinblog.github.io/liujin.github.io/"/>
+  <updated>2018-03-28T10:16:01.708Z</updated>
+  <id>https://liujinblog.github.io/liujin.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>huangbingzhen</title>
+    <link href="https://liujinblog.github.io/liujin.github.io/2018/03/28/huangbingzhen/"/>
+    <id>https://liujinblog.github.io/liujin.github.io/2018/03/28/huangbingzhen/</id>
+    <published>2018-03-28T10:16:01.000Z</published>
+    <updated>2018-03-28T10:16:01.708Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>firstpage</title>
+    <link href="https://liujinblog.github.io/liujin.github.io/2018/03/28/firstpage/"/>
+    <id>https://liujinblog.github.io/liujin.github.io/2018/03/28/firstpage/</id>
+    <published>2018-03-28T09:23:59.000Z</published>
+    <updated>2018-03-28T09:23:59.913Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://liujinblog.github.io/liujin.github.io/2018/03/28/hello-world/"/>
+    <id>https://liujinblog.github.io/liujin.github.io/2018/03/28/hello-world/</id>
+    <published>2018-03-28T08:56:23.751Z</published>
+    <updated>2018-03-28T10:34:34.335Z</updated>
+    
+    <content type="html"><![CDATA[<p>1111111111111111111111111111111111111111111111111111111111111</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;1111111111111111111111111111111111111111111111111111111111111&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
